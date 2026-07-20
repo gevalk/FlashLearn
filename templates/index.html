@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>FlashLearn</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="card">
+
+<h1>FlashLearn</h1>
+
+<h2>Vraag</h2>
+
+<p class="vraag">{{vraag}}</p>
+
+<button onclick="toonAntwoord()">
+    Toon antwoord
+</button>
+
+<button onclick="window.location.reload()">
+    Volgende vraag
+</button>
+<p id="antwoord" style="display:none;">
+  ✅  Antwoord: {{antwoord}}
+</p>
+
+<script>
+    function toonAntwoord() {
+    document.getElementById("antwoord").style.display = "block";
+}
+</script>
+
+</div>
+</body>
+</html>
