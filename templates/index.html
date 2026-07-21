@@ -14,6 +14,12 @@
 
 <p class="vraag">{{vraag}}</p>
 
+{% for optie in options %}
+        <P>
+            <input type="checkbox" name="antwoord" value="{{ optie }}">
+            {{ optie }}
+        </P>
+{% endfor %}
 <button onclick="toonAntwoord()">
     Toon antwoord
 </button>

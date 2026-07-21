@@ -1,0 +1,90 @@
+[
+    {
+        "question": "A computer network is a digital telecommunications network which allows [...] to share resources.",
+        "answer": "nodes"
+    },
+    {
+        "question": "[...] and [...] are also known as 'end hosts' or 'endpoints'.",
+        "answer": "Servers&nbsp; /&nbsp; clients"
+    },
+    {
+        "question": "<div>What does this symbol represent?</div><img src=\"router.JPG\"><br>",
+        "answer": "Router"
+    },
+    {
+        "question": "What does this symbol represent?<div><img src=\"switch.JPG\"><br></div>",
+        "answer": "Switch"
+    },
+    {
+        "question": "What does this symbol represent?<div><img src=\"client.JPG\"><br></div>",
+        "answer": "Client"
+    },
+    {
+        "question": "What does this symbol represent?<div><img src=\"server.JPG\"><br></div>",
+        "answer": "Server"
+    },
+    {
+        "question": "What does this symbol represent?<div><img src=\"firewall.JPG\"><br></div>",
+        "answer": "Firewall"
+    },
+    {
+        "question": "A [...] is a device that accesses a service made available by a server.",
+        "answer": "client"
+    },
+    {
+        "question": "A [...] is a device that provides functions or services for clients.",
+        "answer": "server"
+    },
+    {
+        "question": "Can a single device be both a client and a server?",
+        "answer": "Yes"
+    },
+    {
+        "question": "What does LAN stand for?",
+        "answer": "Local Area Network"
+    },
+    {
+        "question": "A [...] provides connectivity to hosts within the same LAN.",
+        "answer": "switch"
+    },
+    {
+        "question": "A [...] has many network interfaces for end hosts to connect to.",
+        "answer": "switch"
+    },
+    {
+        "question": "What kind of network device is a Cisco 'Catalyst'?",
+        "answer": "Switch"
+    },
+    {
+        "question": "What kind of network device is a Cisco ISR?",
+        "answer": "Router"
+    },
+    {
+        "question": "Routers have [...] network interfaces than switches.",
+        "answer": "fewer"
+    },
+    {
+        "question": "A [...] is used to send data over the Internet.",
+        "answer": "router"
+    },
+    {
+        "question": "A [...] monitors and controls network traffic based on configured rules.",
+        "answer": "firewall"
+    },
+    {
+        "question": "[...] firewalls are software applications that filter traffic entering and exiting a host machine, like a PC.",
+        "answer": "Host-based"
+    },
+    {
+        "question": "What kind of network device is a Cisco ASA?",
+        "answer": "Firewall"
+    },
+    {
+        "question": "What kind of network device is a Cisco Firepower?<br>",
+        "answer": "Firewall"
+    },
+    {
+        "question": "A firewall which combines a traditional firewall with more advanced filtering functionalities is known as a '[...] firewall'.",
+        "answer": "next-generation"
+    }
+]
