@@ -30,7 +30,7 @@ FlashLearn/
 │   └── index.html
 ├── static/
 │   ├── style.css
-│   └── script.js (coming soon)
+│   └── script.js 
 
 ## Future Improvements
 
