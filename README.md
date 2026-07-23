@@ -32,16 +32,6 @@ FlashLearn/
 │   ├── style.css
 │   └── script.js 
 
-## Future Improvements (Did not complete this ' so it stays v1, because of new project PerformanceOS)
-
-- Multiple flashcard categories
-- Score tracking
-- Search function
-- AI-generated flashcards
-- Spaced repetition
-
-
-
 ## About this project
 
 This project is part of my journey from Field Service Engineer to AI Engineer.
