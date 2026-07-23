@@ -8,23 +8,23 @@
         "answer": "Servers&nbsp; /&nbsp; clients"
     },
     {
-        "question": "<div>What does this symbol represent?</div><img src=\"router.JPG\"><br>",
+        "question": "<div>What does this symbol represent?",
         "answer": "Router"
     },
     {
-        "question": "What does this symbol represent?<div><img src=\"switch.JPG\"><br></div>",
+        "question": "What does this symbol represent?<div>",
         "answer": "Switch"
     },
     {
-        "question": "What does this symbol represent?<div><img src=\"client.JPG\"><br></div>",
+        "question": "What does this symbol represent?<div>",
         "answer": "Client"
     },
     {
-        "question": "What does this symbol represent?<div><img src=\"server.JPG\"><br></div>",
+        "question": "What does this symbol represent?",
         "answer": "Server"
     },
     {
-        "question": "What does this symbol represent?<div><img src=\"firewall.JPG\"><br></div>",
+        "question": "What does this symbol represent?",
         "answer": "Firewall"
     },
     {
@@ -80,7 +80,7 @@
         "answer": "Firewall"
     },
     {
-        "question": "What kind of network device is a Cisco Firepower?<br>",
+        "question": "What kind of network device is a Cisco Firepower?",
         "answer": "Firewall"
     },
     {

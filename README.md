@@ -32,7 +32,7 @@ FlashLearn/
 │   ├── style.css
 │   └── script.js 
 
-## Future Improvements
+## Future Improvements (Did not complete this ' so it stays v1, because of new project PerformanceOS)
 
 - Multiple flashcard categories
 - Score tracking
