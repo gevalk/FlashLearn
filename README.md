@@ -36,3 +36,4 @@ FlashLearn/
 
 This project is part of my journey from Field Service Engineer to AI Engineer.
 It is built to strengthen my Python, Flask and web development skills before moving into AI engineering.
+
